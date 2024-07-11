@@ -1,3 +1,6 @@
+
+![image](https://github.com/Pratikshathorat96/Business-Analysis-of-Zomato/assets/120496034/94fdb6bc-2036-4a78-b51c-d2a513a23638)
+
 # Enhancing Zomato's Digital Experience
 PowerPoint presentation of Business analysis of zomato 
 
