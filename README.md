@@ -117,17 +117,7 @@ Zomato (/zoʊmɑːtoʊ/) is an Indian multinational company that aggregates rest
    - User context awareness and enhanced filtering options.
    - Continuous improvement through feedback loops and real-time updates.
 
-### Contributing
-
-We welcome contributions from the community! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Implement your changes and add tests if applicable.
-4. Ensure all tests pass.
-5. Submit a pull request with a detailed description of your changes.
-
-
+### Project by 
 Pratiksha Thorat
 - LinkedIn: [Pratiksha Thorat](https://www.linkedin.com/in/pratiksha-thorat)
 
